@@ -1,0 +1,28 @@
+/*The stule changes background colour*/
+body {
+  background: #E1EFF6;
+}
+
+div {
+
+height:200px;
+width: 400px;
+margin: 0 auto;
+}
+
+.first {
+  background: #97D2FB;
+  height: 50px;
+}
+
+.second {
+  background: #56CBF9;
+}
+
+.third {
+  background: #ECCBD9;
+}
+
+.fourth {
+  background: #AFBED1;
+}
